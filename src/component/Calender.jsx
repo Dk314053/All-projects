@@ -9,6 +9,7 @@ import { DesktopDatePicker } from '@mui/x-date-pickers/DesktopDatePicker';
 
 export default function Calender() {
   return (
+    <>
     <LocalizationProvider dateAdapter={AdapterDayjs}>
    
       <DemoContainer
@@ -21,5 +22,6 @@ export default function Calender() {
       
       </DemoContainer>
     </LocalizationProvider>
+    </>
   );
 }
