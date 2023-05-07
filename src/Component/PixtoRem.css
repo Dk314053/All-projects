@@ -1,0 +1,34 @@
+.main-container{
+    justify-content: center;
+    text-align: center;
+    margin-top: 12rem;
+}
+.head{
+    margin-bottom: 4rem;
+    text-decoration: underline;
+}
+.pixel{
+    margin-top: 5rem;
+    margin-right: 22rem;
+    font-size: 1.5rem;
+}
+.pixelinput{
+    margin-right: 20rem;
+    font-size: 1rem;
+}
+.equal{
+    margin-right:4.5rem;
+    margin-top: -1.8rem;
+    font-size: 1.5rem;
+}
+.rem{
+    margin-left: 10rem;
+ margin-top:-6.6rem ;
+ font-size: 1.5rem;
+}
+.reminput{
+    margin-top: -7rem;
+    margin-left: 12rem;
+    font-size: 1rem;
+    color: blue;
+}
