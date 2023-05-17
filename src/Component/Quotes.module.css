@@ -1,0 +1,32 @@
+.maincontainer{
+    justify-content: center;
+    text-align: center;
+    margin-left: 25rem;
+    margin-top: 12rem;
+    width: 45%;
+    height: 25%;
+    border: 2px solid black;
+    background-color: aqua;
+}
+.head{
+text-decoration: underline;
+    margin-bottom: 3rem;
+}
+.btn{
+    margin-bottom: 2rem;
+    padding: 0.7rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: greenyellow;
+    cursor: pointer;
+}
+.quote{
+    font-size: 1.5rem;
+    font-style: italic;
+   
+}
+.author{
+  margin-right: 25rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
