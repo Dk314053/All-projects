@@ -1,0 +1,56 @@
+.maincontainer{
+    justify-content: center;
+    text-align: center;
+    margin-top: 8rem;
+   
+    display: flex;
+ 
+}
+.left{
+    font-size: 2.5rem;
+    margin-top: 3.5rem;
+}
+.left:hover{
+    color: red;
+}
+.right{
+    font-size: 2.5rem;
+    margin-top: 3.5rem;
+    margin-left: 4.5rem;
+}
+.right:hover{
+    color: red;
+}
+.up{
+    font-size: 2.5rem;
+    margin-left: 3.5rem;
+    margin-top: -3rem;
+}
+.up:hover{
+    color: red;
+}
+.down{
+    font-size: 2.5rem;
+    margin-top: 10rem;
+    margin-left: -9rem;
+    cursor: pointer;
+}
+.down:hover{
+    color: red;
+}
+.value{
+    font-size: 3rem;
+    font-weight: 600;
+    color: blue;
+    margin-left: 5.9rem;
+    margin-bottom:-1rem;
+    position: fixed;
+}
+.head{
+    justify-content: center;
+    text-align: center;
+    margin-left: 7rem;
+    margin-top: 4rem;
+    text-decoration: underline;
+    font-size: 3rem;
+}
