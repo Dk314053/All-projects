@@ -6,6 +6,7 @@
     gap: 1rem;
     justify-content: center;
     text-align: center;
+    margin-right: 4rem;
 }
 .head{
     justify-content: center;
@@ -15,11 +16,12 @@
 .btn{
     font-size: 1.4rem;
     margin-top: 7rem;
-    margin-left: -9rem;
+    margin-left: -11rem;
   cursor: pointer;
    background-color: greenyellow;
 }
 .name{
     font-size: 1.8rem;
     font-weight: 600;
+    
 }
