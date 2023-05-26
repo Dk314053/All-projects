@@ -1,0 +1,25 @@
+.list{
+    display: flex;
+    flex-direction: row;
+    gap: 15rem;
+margin-bottom: 2rem;
+display: inline;
+   
+}
+.delete{
+    margin-left: 90rem;
+    font-size: 2rem;
+    margin-top: -2rem;
+    color: red;
+    position: static;
+    cursor: pointer;
+    margin-bottom: 2rem;
+}
+.delete:hover{
+    background-color: greenyellow;
+}
+.name{
+    margin-left: -80rem;
+   display: inline;
+   margin-bottom: 4rem;
+}
